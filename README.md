@@ -1,10 +1,10 @@
-# Next.js 15 + DaisyUI + SEO + Analytics
+# Next.js 16 + DaisyUI + SEO + Analytics
 
 Template modern untuk developer dengan fitur lengkap SEO dan analytics.
 
 ## 🚀 Features
 
-- ⚡ **Next.js 15** dengan App Router
+- ⚡ **Next.js 16** dengan App Router
 - 🎨 **DaisyUI** untuk styling yang indah
 - 📈 **Google Analytics** tracking
 - 🏷️ **Google Tag Manager** support
